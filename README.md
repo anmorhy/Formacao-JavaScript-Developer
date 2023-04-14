@@ -23,7 +23,22 @@ Aprenda JavaScript do zero, em uma abordagem de ensino totalmente imersiva e pr�
             </tr>
             <tr>
                 <td>Valor de uma viagem</td>
-                <td><a href=" ">Código</a></td>
+                <td><a href="https://github.com/anmorhy/Formacao-JavaScript-Developer/blob/master/Aprenda%20a%20Programar%20do%20Zero/01%20-%20Primeiros%20Passos%20com%20JavaScript/01%20-%20variaveis%20e%20operadores/desafio_01.js">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+            <tr>
+                <td>Valor de uma viagem com tipo de combustivel</td>
+                <td><a href="https://github.com/anmorhy/Formacao-JavaScript-Developer/blob/master/Aprenda%20a%20Programar%20do%20Zero/01%20-%20Primeiros%20Passos%20com%20JavaScript/01%20-%20variaveis%20e%20operadores/desafio_02.js">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+            <tr>
+                <td>Valor da media do aluno</td>
+                <td><a href="https://github.com/anmorhy/Formacao-JavaScript-Developer/blob/master/Aprenda%20a%20Programar%20do%20Zero/01%20-%20Primeiros%20Passos%20com%20JavaScript/01%20-%20variaveis%20e%20operadores/desafio_03.js">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+            <tr>
+                <td>Calcular IMC</td>
+                <td><a href="https://github.com/anmorhy/Formacao-JavaScript-Developer/blob/master/Aprenda%20a%20Programar%20do%20Zero/01%20-%20Primeiros%20Passos%20com%20JavaScript/01%20-%20variaveis%20e%20operadores/desafio_04.js">Código</a></td>
                 <td align="center">✔️</td>
             </tr>                            
         </table>  
