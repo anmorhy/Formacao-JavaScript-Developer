@@ -14,7 +14,7 @@ Aprenda JavaScript do zero, em uma abordagem de ensino totalmente imersiva e pr�
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="3"><a href="">Primeiros Passos JavaScipt</a></th>
+                <th colspan="3"><a href="">01_Primeiros Passos JavaScipt</a></th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -22,45 +22,57 @@ Aprenda JavaScript do zero, em uma abordagem de ensino totalmente imersiva e pr�
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Valor de uma viagem</td>
+                <td>Desafio_Valor de uma viagem</td>
                 <td><a href="https://github.com/anmorhy/Formacao-JavaScript-Developer/blob/master/Aprenda%20a%20Programar%20do%20Zero/01%20-%20Primeiros%20Passos%20com%20JavaScript/01%20-%20variaveis%20e%20operadores/desafio_01.js">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
             <tr>
-                <td>Valor de uma viagem com tipo de combustivel</td>
+                <td>Desafio_Valor de uma viagem com tipo de combustivel</td>
                 <td><a href="https://github.com/anmorhy/Formacao-JavaScript-Developer/blob/master/Aprenda%20a%20Programar%20do%20Zero/01%20-%20Primeiros%20Passos%20com%20JavaScript/01%20-%20variaveis%20e%20operadores/desafio_02.js">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
             <tr>
-                <td>Valor da media do aluno</td>
+                <td>Desafio_Valor da media do aluno</td>
                 <td><a href="https://github.com/anmorhy/Formacao-JavaScript-Developer/blob/master/Aprenda%20a%20Programar%20do%20Zero/01%20-%20Primeiros%20Passos%20com%20JavaScript/01%20-%20variaveis%20e%20operadores/desafio_03.js">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
             <tr>
-                <td>Calcular IMC</td>
+                <td>Desafio_Calcular IMC</td>
                 <td><a href="https://github.com/anmorhy/Formacao-JavaScript-Developer/blob/master/Aprenda%20a%20Programar%20do%20Zero/01%20-%20Primeiros%20Passos%20com%20JavaScript/01%20-%20variaveis%20e%20operadores/desafio_04.js">Código</a></td>
                 <td align="center">✔️</td>
             </tr>      
             <tr>
-                <td>Calcular Desconto</td>
+                <td>Desafio_Calcular Desconto</td>
                 <td><a href="https://github.com/anmorhy/Formacao-JavaScript-Developer/blob/master/Aprenda%20a%20Programar%20do%20Zero/01%20-%20Primeiros%20Passos%20com%20JavaScript/01%20-%20variaveis%20e%20operadores/desafio_05.js">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
-                <th colspan="3"><a href="">Conhecendo Funções</a></th>
+                <th colspan="3"><a href="">02_Conhecendo Funções</a></th>
             </tr>                     
             <tr>
-            <td>Calcular IMC</td>
+            <td>Poder Função</td>
                 <td><a href="">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+             <td>Desafio_Classificar IMC</td>
+                <td><a href="https://github.com/anmorhy/Formacao-JavaScript-Developer/blob/master/Aprenda%20a%20Programar%20do%20Zero/02%20-%20Conhecendo%20Fun%C3%A7%C3%B5es/desafio_01.js">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+             <td>Desafio_Verificar Idade</td>
+                <td><a href="https://github.com/anmorhy/Formacao-JavaScript-Developer/blob/master/Aprenda%20a%20Programar%20do%20Zero/02%20-%20Conhecendo%20Fun%C3%A7%C3%B5es/desafio_02.js">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <td>Desafio_Aplicar Desconto</td>
+                <td><a href="https://github.com/anmorhy/Formacao-JavaScript-Developer/blob/master/Aprenda%20a%20Programar%20do%20Zero/02%20-%20Conhecendo%20Fun%C3%A7%C3%B5es/desafio_03.js">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             </tr>   
             <tr>
-                <th colspan="3"><a href="">Objetos e Classes</a></th>
+                <th colspan="3"><a href="">03_Objetos e Classes</a></th>
             </tr>                     
             <tr>
             <td>Entendendo Objetos e Classes</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/anmorhy/Formacao-JavaScript-Developer/blob/master/Aprenda%20a%20Programar%20do%20Zero/03%20-%20Objetos%20e%20Classes/01_objetosClasses.js">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>  
