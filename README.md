@@ -40,7 +40,29 @@ Aprenda JavaScript do zero, em uma abordagem de ensino totalmente imersiva e pr�
                 <td>Calcular IMC</td>
                 <td><a href="https://github.com/anmorhy/Formacao-JavaScript-Developer/blob/master/Aprenda%20a%20Programar%20do%20Zero/01%20-%20Primeiros%20Passos%20com%20JavaScript/01%20-%20variaveis%20e%20operadores/desafio_04.js">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>                            
+            </tr>      
+            <tr>
+                <td>Calcular Desconto</td>
+                <td><a href="https://github.com/anmorhy/Formacao-JavaScript-Developer/blob/master/Aprenda%20a%20Programar%20do%20Zero/01%20-%20Primeiros%20Passos%20com%20JavaScript/01%20-%20variaveis%20e%20operadores/desafio_05.js">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <th colspan="3"><a href="">Conhecendo Funções</a></th>
+            </tr>                     
+            <tr>
+            <td>Calcular IMC</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            </tr>   
+            <tr>
+                <th colspan="3"><a href="">Objetos e Classes</a></th>
+            </tr>                     
+            <tr>
+            <td>Entendendo Objetos e Classes</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
         </table>  
     </div>
 </details>
