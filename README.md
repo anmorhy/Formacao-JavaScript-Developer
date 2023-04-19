@@ -18,32 +18,26 @@ Aprenda JavaScript do zero, em uma abordagem de ensino totalmente imersiva e pr�
             </tr>
             <tr>
                 <th>Desafio</th>
-                <th>Solução</th>
                 <th>Status</th>
             </tr>
             <tr>
                 <td>Desafio_Valor de uma viagem</td>
-                <td><a href="">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
             <tr>
                 <td>Desafio_Valor de uma viagem com tipo de combustivel</td>
-                <td><a href="">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
             <tr>
                 <td>Desafio_Valor da media do aluno</td>
-                <td><a href="">Código</a></td>
                 <td align="center">✔️</td>
             </tr> 
             <tr>
                 <td>Desafio_Calcular IMC</td>
-                <td><a href="">Código</a></td>
                 <td align="center">✔️</td>
             </tr>      
             <tr>
                 <td>Desafio_Calcular Desconto</td>
-                <td><a href="">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
@@ -51,22 +45,18 @@ Aprenda JavaScript do zero, em uma abordagem de ensino totalmente imersiva e pr�
             </tr>                     
             <tr>
                 <td>Poder Função</td>
-                <td><a href="">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Desafio_Classificar IMC</td>
-                <td><a href="">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Desafio_Verificar Idade</td>
-                <td><a href="">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Desafio_Aplicar Desconto</td>
-                <td><a href="">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
@@ -74,14 +64,53 @@ Aprenda JavaScript do zero, em uma abordagem de ensino totalmente imersiva e pr�
             </tr>  
             <tr>
                 <td>Desafio_Carros</td>
-                <td><a href="">Código</a></td>
                 <td align="center">✔️</td>
             </tr>   
             <tr>
                 <td>Desafio_IMC</td>
-                <td><a href="">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>                 
+            </tr>
+            <tr>
+                <th colspan="3"><a href="">04_Arrays e Estrutura de Repetição</a></th>
+            </tr>  
+            <tr>
+                <td>Desafio_Notas</td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Desafio_Tabuada</td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Desafio_Numero Par</td>
+                <td align="center">✔️</td>
+            </tr>  
+            <tr>
+                <th colspan="3"><a href="">05_Importação e Exportação</a></th>
+            </tr>    
+            <tr>
+                <td>Desafio_Numero Sorteado</td>
+                <td align="center">✔️</td>
+            </tr>            
+            <tr>
+                <th colspan="3"><a href="">06_Desafios</a></th>
+            </tr>  
+            <tr>
+                <td>Desafio_Notas</td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Desafio_Numero Par</td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Desafio_Salario</td>
+                <td align="center">✔️</td>
+            </tr>  
+            <tr>
+                <td>Desafios</td>
+                <td align="center">✔️</td>
+            </tr>          
         </table>  
     </div>
 </details>
